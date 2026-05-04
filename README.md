@@ -29,7 +29,7 @@ This script is written in standard Python and relies only on the built-in `math`
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/GCPV-System-Sizing-Calculator.git
+   git clone https://github.com/kandipapp/GCPV-System-Sizing-Calculator.git
 Navigate to the directory:
 Run the script via your terminal or IDE:
 📊 Results Summary
