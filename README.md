@@ -5,7 +5,7 @@ This repository contains a Python-based computational model developed to automat
 
 The program calculates the optimal series and parallel string configurations to maximize energy yield while strictly adhering to the electrical, thermal, and safety constraints of the hardware components. A key feature of this model is its built-in constraint-checking logic, which automatically detects hardware incompatibilities (such as voltage limit conflicts) between the PV modules and the selected grid inverter.
 
-This project was developed by **Group 24**: Eugene Ooi You Qi for the EEEE2049 Electrical Energy Conditioning and Control module.
+This project was developed by **Group 24**: Eugene Ooi You Qi, Ng Hao Zhuo, Weng Zong Yan for the EEEE2049 Electrical Energy Conditioning and Control module.
 
 ## ⚙️ Hardware Specifications & Design Parameters
 The system was designed and evaluated based on the following assigned specifications:
